@@ -1,1 +1,1 @@
-###### Java-101, Spring 101, Vaadin 101, REST 101, JPA 101, Hibernate 101, Web Security 101, BCriptPasswordEncoder 101, JWT 101, Json Application Context 101, Spring UserDetailsService 101, HttpSecurity, Servlets,  Beans, AuthenticationManager, AuthenticationFilter, Spring BeanUtils
+Solutions to common problems 
